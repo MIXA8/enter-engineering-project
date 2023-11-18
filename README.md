@@ -3,6 +3,7 @@
 после установки запустить
 1)npm run dev
 2)php artisan serve
+3) php artisan migrate
 ![enter image description here](https://raw.githubusercontent.com/MIXA8/foto/main/1.png)
 # Первый пользователь
 
